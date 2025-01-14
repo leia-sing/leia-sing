@@ -3,11 +3,11 @@
 I’m a data analyst with experience delivering actionable insights in the travel and technology industries. Most recently, I surfaced insights on business process improvements at Sabre and compliance reporting at Toyota.
 
 Feel free to view my Sabre projects here:
-- Analyzing Rate Competitiveness
-- Program Code Optimization
+- [Analyzing Rate Competitiveness](https://github.com/leia-sing/Sabre-Internship-Project-Analyzing-Rate-Competitiveness)
+- [Program Code Optimization](https://github.com/leia-sing/Sabre-Internship-Project-Program-Code-Optimization)
 
 Feel free to view my Toyota Projects here:
-- Authoring Compliance Software User Management Document
+- [Authoring Compliance Software User Management Document](https://github.com/leia-sing/Toyota-Internship-Authoring-User-Management-Documentation)
 - Developing Privacy Reporting Dashboard Prototype
 
 What I enjoy most in my work: 
