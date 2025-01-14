@@ -8,7 +8,7 @@ Feel free to view my Sabre projects here:
 
 Feel free to view my Toyota Projects here:
 - [Authoring Compliance Software User Management Document](https://github.com/leia-sing/Toyota-Internship-Authoring-User-Management-Documentation)
-- [Developing Privacy Reporting Dashboard Prototype](https://github.com/leia-sing/Toyota-Internship-Developing-Compliance-Reporting-Visualizations)
+- [Developing Compliance Reporting Visualizations](https://github.com/leia-sing/Toyota-Internship-Developing-Compliance-Reporting-Visualizations)
 
 What I enjoy most in my work: 
 
