@@ -1,6 +1,9 @@
 ## 👋 Hi there! I’m Leia  
 
-I’m a data analyst with experience delivering actionable insights in the travel and technology industries. Most recently, I surfaced insights on business process improvements at Sabre and compliance reporting at Toyota.
+I’m a data analyst with experience delivering actionable insights in the travel and technology industries. Most recently, I surfaced insights on traffic trends at The City of Frisco, business process improvements at Sabre, and compliance reporting at Toyota.
+
+Feel free to view my traffic dashboard for the City of Frisco here: 
+- [Frisco Traffic Optimization](https://github.com/leia-sing/Frisco-Traffic-Optimization)
 
 Feel free to view my Sabre projects here:
 - [Analyzing Rate Competitiveness](https://github.com/leia-sing/Sabre-Internship-Project-Analyzing-Rate-Competitiveness)
