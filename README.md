@@ -1,6 +1,8 @@
 ## 👋 Hi there! I’m Leia  
 
-I’m a data analyst with experience delivering actionable insights in the travel and technology industries. Most recently, I surfaced insights on traffic trends at The City of Frisco, business process improvements at Sabre, and compliance reporting at Toyota.
+I’m currently an Energy Performance Specialist at Schneider Electric, where I’m helping customers realize their energy savings (and potential!) in energy savings performance contracts, with a focus on federal projects. 
+
+Previously, I surfaced insights on traffic trends at The City of Frisco, business process improvements at Sabre, and compliance reporting at Toyota.
 
 Feel free to view my traffic dashboard for the City of Frisco here: 
 - [Frisco Traffic Optimization](https://github.com/leia-sing/Frisco-Traffic-Optimization)
