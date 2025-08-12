@@ -21,7 +21,6 @@ What I enjoy most in my work:
 - Collaborating with others to understand the bigger picture surrounding my analysis.
 - Exercising my problem-solving skills when querying data and building visualizations.
 
-I’m looking for a full-time role where I can continue doing these and more.
 
 When I’m not working, I love listening to 60s music, dancing, and traveling.
 
